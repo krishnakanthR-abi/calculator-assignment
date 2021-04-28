@@ -6,6 +6,8 @@ class Calculator:
 
         """
         DOCSTRING: initialization
+        file changed
+        
         """
 
         self.master = master
